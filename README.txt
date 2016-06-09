@@ -1,1 +1,1 @@
-Ceci est un exercice sur Git
+Ceci est un exercice sur Git pour OpenClassroom
